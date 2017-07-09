@@ -1,0 +1,160 @@
+.nav-pills{
+  font-family: Lobster;
+  font-size: 1em;
+  background-color:  #7A7A7A;
+  padding: 10px;
+  border-radius: 0px;
+  margin-top: 0px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  height: 70px;
+
+  }
+
+body{
+  background-color: #949894;
+  font-family: Roboto;
+  font-size: 20px;
+
+}
+
+
+.nav-pills > li > a{
+  background-color: #4E514E;
+  color: #fff;
+  margin-left: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.nav-pills > li > a:hover{
+  background-color: #080808;
+  color: #fff;
+  opacity: 0.9;
+}
+
+.pageOne{
+  background-image: url("https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=caspar-rubin-224229.jpg&s=b1babf53be28cc9700be40a9c8c91122");
+  background-size:cover;
+  height: 800px;
+  margin: 0px 50px 0px 50px;
+  padding: 210px;
+
+  }
+
+
+  .btnList > a{
+      color: #fff;
+  }
+
+.btn-default{
+    background-color: #4E514E;
+    border-radius: 10px;
+    background-color: #000;
+    font-size: 20px;
+
+  }
+
+  .btnList > a:hover{
+    background-color: #080808;
+    color: #fff;
+    opacity: 0.9;
+    border-radius: 10px;
+  }
+
+h1{
+  margin-top: 0px;
+  font-size: 50px;
+}
+
+h2{
+  padding-top: 10px;
+}
+
+.block1{
+  padding: 50px;
+  background-color: #626562;
+  opacity: 0.6;
+  margin-left:100px;
+  margin-right:  100px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  color: #fff;
+
+
+}
+
+.pageTwo{
+    background-image:url("https://images.unsplash.com/photo-1487611459768-bd414656ea10?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=corinne-kutz-211251.jpg&s=53bb80019271e795ae2b19956a130713");
+    background-size: cover;
+    height: 800px;
+    margin: 0px 50px 0px 50px;
+    color: #000;
+    padding-top: 200px;
+    background-attachment: fixed;
+
+}
+
+.medium{
+  margin-top: 10px;
+}
+
+#facebookIcon{
+  color: rgb(59, 89, 152);
+}
+
+#twitterIcon{
+  color: rgb(29, 161, 242);
+}
+
+#githubIcon{
+  color: rgb(29, 161, 242);
+}
+
+#youtubeIcon{
+  color: #CD201F;
+}
+
+#mediumIcon{
+  color: #3cb371;
+}
+#instagramIcon{
+  color:  rgb(76, 76, 76);
+}
+#linkedinIcon{
+  color:  rgb(0, 119, 181);
+}
+
+p{
+  font-size: 30px;
+  color: #fff;
+}
+
+ #name{
+  color: #fff;
+}
+
+.me{
+  height: 300px;
+  padding: 20px;
+}
+
+.block2{
+  background-color: #000;
+  opacity: 0.4;
+  margin-left: 50px;
+  padding-right:10px;
+  border-radius: 5%;
+}
+
+.pageThree{
+    background-image:url("https://images.unsplash.com/7/Top_view.jpg?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=vadim-sherbakov-68.jpg&s=ea332017f043d8860b8d4111ac1d7d57");
+    background-size: cover;
+    height: 800px;
+    margin: 0px 50px 0px 50px;
+    color: #000;
+    padding-top: 80px;
+
+
+}
