@@ -158,3 +158,35 @@ p{
 
 
 }
+
+.pageFour{
+    background-image:url("https://images.unsplash.com/photo-1498622205843-3b0ac17f8ba4?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=rawpixel-com-296612.jpg&s=c72003e0c11fbe1148da7f45c2875b79");
+    background-size: cover;
+    height: 800px;
+    margin: 0px 50px 0px 50px;
+    color: #000;
+    padding-top: 80px;
+    background-attachment: fixed;
+}
+
+
+.pageFive{
+    background-image:url("https://images.unsplash.com/photo-1499159058454-75067059248a?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=quino-al-302041.jpg&s=f78918e8c253c72d739cf9f5e5d88dcb");
+    background-size: cover;
+    height: 800px;
+    margin: 0px 50px 0px 50px;
+    color: #000;
+    padding-top: 80px;
+
+}
+
+#main-footer{
+  background-color: #5E8BB0;
+  padding: 15px;
+
+}
+
+#main-footer , p{
+  font-size: 20px;
+
+}
